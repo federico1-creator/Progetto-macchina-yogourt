@@ -1,5 +1,5 @@
 # Progetto macchina imballatrice di yogourt
-Progetto per il corso di macchine automatiche
+Progetto per il corso di **macchine automatiche**
 
 Analisi di un sistema per l'imballaggio dello yogurt, suddividendolo nei suoi blocchi fondamentali.
 Si è iniziato con la simulazione dei cilindri presenti, tramite la realizzazione di un modello 3D e analisi del diagrammi delle fasi e Grafcet per analizzare i vari step effettuati dal sistema.
